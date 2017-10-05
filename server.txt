@@ -1,0 +1,2 @@
+
+$ ls -lR | grep run.php | xargs -0 rm -f --
